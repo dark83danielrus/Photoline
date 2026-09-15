@@ -213,4 +213,4 @@ PhotoLine is available as a full free version, including all features and update
 Ready to elevate your image editing experience? **Download PhotoLine now and unleash your creativity!**
 
 ---
-**Last updated:** 2026-09-15 09:50:44 UTC
+**Last updated:** 2026-09-15 14:43:06 UTC
